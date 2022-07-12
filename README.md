@@ -33,7 +33,11 @@ Iteration 3: Recipe Page Content
 - [X] Under ingredients, add "Steps" heading
   - [X] Add ordered list of the steps needed for making the dish
 
+***Completed 7/12/2022 @ 11:45AM***
+
 Iteration 4: Add More Recipes
 - [X] Add two more recipes to recipe page with identical page structures
 - [X] Link to new recipes on index page
 - [X] Put all links in an unordered list so they aren't all on one line.
+
+***Completed 7/12/2022 @ 12:46AM***

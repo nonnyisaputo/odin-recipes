@@ -25,13 +25,13 @@ Iteration 2: Recipe Page
 
 Iteration 3: Recipe Page Content
 
-- [ ] Image of finished dish under the h1
-- [ ] Add appropriately sized "Description" heading
-- [ ] Add paragraph or two describing the recipe
-- [ ] Under description, add "Ingredients" heading
-  - [ ] Add unordered list of the ingredients
-- [ ] Under ingredients, add "Steps" heading
-  - [ ] Add ordered list of the steps needed for making the dish
+- [X] Image of finished dish under the h1
+- [X] Add appropriately sized "Description" heading
+- [X] Add paragraph or two describing the recipe
+- [X] Under description, add "Ingredients" heading
+  - [X] Add unordered list of the ingredients
+- [X] Under ingredients, add "Steps" heading
+  - [X] Add ordered list of the steps needed for making the dish
 
 Iteration 4: Add More Recipes
 - [ ] Add two more recipes to recipe page with identical page structures

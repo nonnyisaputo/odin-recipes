@@ -16,10 +16,10 @@ Iteration 1: Initial Structure
 
 Iteration 2: Recipe Page
 
-- [ ] Create new directory odin-recipes/recipes
-- [ ] Create new HTML file within recipes directory and name it after the recipe it will contain
-- [ ] Add h1 heading with the recipe's name
-- [ ] Add link to recipe page in index.html, link should be the recipe name.
+- [X] Create new directory odin-recipes/recipes
+- [X] Create new HTML file within recipes directory and name it after the recipe it will contain
+- [X] Add h1 heading with the recipe's name
+- [X] Add link to recipe page in index.html, link should be the recipe name.
 
 Iteration 3: Recipe Page Content
 

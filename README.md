@@ -21,6 +21,8 @@ Iteration 2: Recipe Page
 - [X] Add h1 heading with the recipe's name
 - [X] Add link to recipe page in index.html, link should be the recipe name.
 
+***Complete 7/12/2022 @ 10:28AM***
+
 Iteration 3: Recipe Page Content
 
 - [ ] Image of finished dish under the h1

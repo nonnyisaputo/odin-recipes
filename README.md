@@ -34,6 +34,6 @@ Iteration 3: Recipe Page Content
   - [X] Add ordered list of the steps needed for making the dish
 
 Iteration 4: Add More Recipes
-- [ ] Add two more recipes to recipe page with identical page structures
-- [ ] Link to new recipes on index page
-- [ ] Put all links in an unordered list so they aren't all on one line.
+- [X] Add two more recipes to recipe page with identical page structures
+- [X] Link to new recipes on index page
+- [X] Put all links in an unordered list so they aren't all on one line.

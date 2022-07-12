@@ -8,9 +8,11 @@ The assignment is to create a basic website which consists of a main index page,
 
 Iteration 1: Initial Structure
 
-- [ ] Create index.html file in the odin-recipes directory
-- [ ] Add boilerplate HTML
-- [ ] Add h1 heading "Odin Recipes" to the body
+- [X] Create index.html file in the odin-recipes directory
+- [X] Add boilerplate HTML
+- [X] Add h1 heading "Odin Recipes" to the body
+
+***Completed 7/12/2022 @ 9:15AM***
 
 Iteration 2: Recipe Page
 

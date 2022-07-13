@@ -1,0 +1,16 @@
+body {
+    text-align: center;
+}
+
+img {
+    height:auto;
+    width: 350px;
+}
+
+ul, ol {
+    text-align: justify;
+}
+
+.no-bullets {
+    list-style: none;
+}

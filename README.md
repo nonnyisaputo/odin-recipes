@@ -40,4 +40,4 @@ Iteration 4: Add More Recipes
 - [X] Link to new recipes on index page
 - [X] Put all links in an unordered list so they aren't all on one line.
 
-***Completed 7/12/2022 @ 12:46AM***
+***Completed 7/12/2022 @ 12:46***
